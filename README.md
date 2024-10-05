@@ -14,3 +14,10 @@ Shuntaro Takahashi, Yu Chen and Kumiko Tanaka-Ishii. Modeling financial time-ser
 
 # data
 [link](https://www.dropbox.com/sh/ki25r44b6ioemut/AADVVsaF-pfKhYNzF83ZTLCUa?dl=0)
+
+# modified to work on 
+- Python 3.10.2
+- Matplotlib 3.9.2
+- Numpy 1.23.5
+- Pandas 2.2.3
+- Tensorflow 2.17.0
